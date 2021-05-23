@@ -24,7 +24,7 @@
                     <td>@item.Nama</td>
                     <td>@item.NIK</td>
                     <td>@item.Posisi</td>
-                    <td>@item.TanggalLahir</td>
+                    <td>@Convert.ToDateTime(item.Tgl_Lahir).ToString("dd MMMM yyyy")</td>
                     <td>@item.Divisi</td>
                     <td>@item.JenisKelamin</td>
                 </tr>

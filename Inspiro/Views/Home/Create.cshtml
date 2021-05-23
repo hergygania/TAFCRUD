@@ -21,7 +21,7 @@
     </div>
 
     <div class="form-group">
-        <label for="TanggalLahir">Tanggal Lahir</label>
+        <label for="Tgl_Lahir">Tanggal Lahir</label>
         <div class="row">
         <div class="col">
             <label>Date</label>
@@ -41,10 +41,11 @@
             <label>Month</label>
             <select class="form-control" name="Bulan" id="Bulan">
                 @{
+                    string[] month = { "Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember" };
                     for (int i = 1; i <= 12; i++)
                     {
                         <option value="@i">
-                            @i
+                            @month[i - 1]
                         </option>
                     }
                 }

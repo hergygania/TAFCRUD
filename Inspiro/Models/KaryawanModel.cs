@@ -10,7 +10,7 @@ namespace Inspiro.Models
         public string Nama { get; set; }
         public string NIK { get; set; }
         public string Posisi { get; set; }
-        public string TanggalLahir { get; set; }
+        public string Tgl_Lahir { get; set; }
         public string Divisi { get; set; }
         public string JenisKelamin { get; set; }
         public string Date { get; set; }

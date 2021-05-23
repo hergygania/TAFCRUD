@@ -13,7 +13,7 @@ namespace Inspiro.BL
         public List<KaryawanModel> GetAll(ref string msg)
         {
             var response = new List<KaryawanModel>();
-            var query = string.Format(@"SELECT * FROM Tbl_Karyawan");
+            var query = string.Format(@"SELECT * FROM KARYAWAN");
             var result = ExecuteQueryWithParam(query, new List<SqlParameter>(), ref msg);
 
             if (msg.Length > 0)
@@ -31,13 +31,14 @@ namespace Inspiro.BL
 
         public bool Insert(KaryawanModel data, ref string msg)
         {
-            string time = DateTime.Now.ToString("h:mm:ss tt");
+            string time = DateTime.Now.ToString("hh:mm:ss tt");
             var dateGabung = data.Bulan + "/" + data.Date + "/" + data.year + " " + time;
-            var dateJadi = DateTime.Parse(dateGabung);
+            var fixDate = dateGabung.Replace('.', ':');
+            //var dateJadi = DateTime.Parse(dateGabung);
             var query = string.Format(@"
-                INSERT INTO Tbl_Karyawan (Nama, NIK, Posisi, TanggalLahir, Divisi, JenisKelamin)
+                INSERT INTO KARYAWAN (Nama, NIK, Posisi, Tgl_Lahir, Divisi, JenisKelamin)
                 VALUES ('{0}', {1}, '{2}', '{3}', '{4}', '{5}')
-            ", data.Nama, data.NIK, data.Posisi, dateJadi, data.Divisi, data.JenisKelamin);
+            ", data.Nama, data.NIK, data.Posisi, fixDate, data.Divisi, data.JenisKelamin);
             var result = ExecuteQueryWithParam(query, new List<SqlParameter>(), ref msg);
 
             if (msg.Length > 0)
