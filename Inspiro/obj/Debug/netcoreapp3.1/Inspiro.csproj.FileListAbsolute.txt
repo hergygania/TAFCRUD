@@ -1,0 +1,88 @@
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\appsettings.json
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.exe
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.deps.json
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.runtimeconfig.json
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.runtimeconfig.dev.json
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.pdb
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.Views.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.Views.pdb
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.AssemblyInfoInputs.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.AssemblyInfo.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.csproj.CoreCompileInputs.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.MvcApplicationPartsAssemblyInfo.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorAssemblyInfo.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorAssemblyInfo.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\staticwebassets\Inspiro.StaticWebAssets.Manifest.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\staticwebassets\Inspiro.StaticWebAssets.xml
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\scopedcss\bundle\Inspiro.styles.css
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.TagHelpers.input.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.TagHelpers.output.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorCoreGenerate.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorTargetAssemblyInfo.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorTargetAssemblyInfo.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.Views.pdb
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.csproj.CopyComplete
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.dll
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.pdb
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.genruntimeconfig.cache
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\aldi\project\personnal\inspiro\project\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.csprojAssemblyReference.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.exe
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\appsettings.json
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.deps.json
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.runtimeconfig.json
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.runtimeconfig.dev.json
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.pdb
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.Views.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\Inspiro.Views.pdb
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.csprojAssemblyReference.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.AssemblyInfoInputs.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.AssemblyInfo.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.csproj.CoreCompileInputs.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.MvcApplicationPartsAssemblyInfo.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorAssemblyInfo.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorAssemblyInfo.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\staticwebassets\Inspiro.StaticWebAssets.Manifest.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\staticwebassets\Inspiro.StaticWebAssets.xml
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\scopedcss\bundle\Inspiro.styles.css
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.TagHelpers.input.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.TagHelpers.output.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorCoreGenerate.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorTargetAssemblyInfo.cache
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.RazorTargetAssemblyInfo.cs
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.Views.pdb
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.csproj.CopyComplete
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.dll
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.pdb
+E:\aldi\project\personnal\toyota astra finance\Inspiro\Inspiro\obj\Debug\netcoreapp3.1\Inspiro.genruntimeconfig.cache

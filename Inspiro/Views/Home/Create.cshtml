@@ -1,0 +1,139 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form asp-controller="Home" asp-action="Insert" method="post" class="form-group">
+    <div class="form-group">
+        <label>Nama</label>
+        <input type="text" name="Nama" id="Nama" value="" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>NIK</label>
+        <input type="number" name="NIK" value="" id="NIK" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Posisi</label>
+        <input type="text" name="Posisi" value="" id="Posisi" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="TanggalLahir">Tanggal Lahir</label>
+        <div class="row">
+        <div class="col">
+            <label>Date</label>
+            <select class="form-control" name="Date" id="Date">
+                @{
+                    for (int i = 1; i <= 31; i++)
+                    {
+                        <option value="@i">
+                            @i
+                        </option>
+                    }
+                }
+            </select>
+        </div>
+
+        <div class="col">
+            <label>Month</label>
+            <select class="form-control" name="Bulan" id="Bulan">
+                @{
+                    for (int i = 1; i <= 12; i++)
+                    {
+                        <option value="@i">
+                            @i
+                        </option>
+                    }
+                }
+            </select>
+        </div>
+
+        <div class="col">
+            <label>Year</label>
+            <input type="number" name="year" id="year" class="form-control" />
+        </div>
+
+    </div>
+    </div>
+
+    <div class="form-group">
+        <label>Divisi</label>
+        <input type="text" name="Divisi" id="Divisi" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Jenis Kelamin</label>
+        <div class="row">
+            <div class="col">
+                @Html.RadioButton("JenisKelamin", "Perempuan")
+                Perempuan
+            </div>
+            <div class="col">
+                @Html.RadioButton("JenisKelamin", "Laki - Laki")
+                Laki - Laki
+            </div>
+        </div>
+    </div>
+
+    <input type="button" class="btn btn-success mt-4" name="tiruan" id="tiruan" value="Submit" onclick="onSubmitTransaction()"/>
+    <input type="submit" class="btn btn-success mt-4" name="submit" id="submit" value="Submit" hidden="hidden"/>
+</form>
+
+<script>
+
+    function onSubmitTransaction() {
+        var isFormValid = true;
+        var date = parseInt($('#Date').val());
+        var month = parseInt($('#Bulan').val());
+        var year = parseInt($('#year').val());
+        if (isNaN(date) || isNaN(month) || isNaN(year)) {
+            alert('wrong date format');
+            isFormValid = false;
+            return false;
+        } else {
+            if (date > 31 || date < 1) {
+                alert('wrong date');
+                isFormValid = false;
+                return false;
+            } else if ((month == 4 || month == 6 || month == 9 || month == 11) && date == 31) {
+                alert('wrong date');
+                isFormValid = false;
+                return false;
+            } else if (month == 2) {
+                var isleap = (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0));
+                if (date > 29 || (date == 29 && !isleap))
+                    alert('wrong date');
+                isFormValid = false;
+                return false;
+            }
+            if (month > 12 || month < 1) {
+                alert('wrong month');
+                isFormValid = false;
+                return false;
+            }
+            if (year > 2050 || year < 1900) {
+                alert('wrong year');
+                isFormValid = false;
+                return false;
+            }
+        }
+
+        var item = $('#Nama').val();
+        var code = $('#NIK').val();
+        var brand = $('#Posisi').val();
+        var qty = $('#Divisi').val();
+        var notes = $('#Notes').val();
+
+        if (item == '' || code == '' || brand == '' || qty == '') {
+            isFormValid = false;
+            alert('Lengkapi Form !');
+        }
+
+        if (isFormValid) {
+            $('#submit').click()
+        }
+    }
+</script>
